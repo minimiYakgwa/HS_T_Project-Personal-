@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 231b29c0515c401409da3001e2d8c719, type: 3}
+  m_Name: CH_01
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  CharName: Jane
+  DefaultLevel: 1
+  MaxHp: 99
+  DefaultStat:
+    Power: 2
+    Spell: 2
+    Durability: 2
+    Speed: 2
+  Attribute:
+    Fire: 0
+    Water: 0
+    Soil: 2
+    Air: 0
+    Plasma: 2
+    Data: 0
